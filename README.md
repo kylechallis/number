@@ -1,6 +1,10 @@
 # number
 A very simple random number game :)
 
+## Example Site
+
+http://kylechallis.com/number
+
 ## Installation
 
 1. `git clone https://github.com/zera555/number` to a php server
